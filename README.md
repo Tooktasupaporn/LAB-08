@@ -178,7 +178,7 @@ public class TryCatch
  }
 ```
 -ไม่มีข้อผิดพลาดและได้ผลดังนี้
-![]()
+![](https://github.com/Tooktasupaporn/LAB-08/blob/master/lab8-2.PNG?raw=true)
 ###2.
 ``` csharp
 using System;
@@ -193,6 +193,32 @@ public class TryCatch
      }
  }
 ```
+--การรัน error และแก้ข้อผิดพลาดได้ดังนี้
+```
+using System;
+public class TryCatch
+{
+    static void Main(string[] args)
+    {
+            int a = 0;
+            int b = 10;
+        try
+        {
+            b /= a;
+            Console.WriteLine(a);
+        }
+        catch (NullReferenceException e)
+        {
+            Console.WriteLine(e.Message);
+        }
+        catch (DivideByZeroException e)
+        {
+            Console.WriteLine(e.Message);
+        }
+    }
+}
+```
+![]()
 ###3.
 ``` csharp
 using System;
