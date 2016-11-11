@@ -81,7 +81,7 @@ using System;
     }
  }
  ```
- ![]()
+ ![](https://github.com/Tooktasupaporn/LAB-08/blob/master/lab8-1.PNG?raw=true)
 
 
 ###1.1.2. try…catch…finally
@@ -177,6 +177,8 @@ public class TryCatch
      }
  }
 ```
+-ไม่มีข้อผิดพลาดและได้ผลดังนี้
+![]()
 ###2.
 ``` csharp
 using System;
