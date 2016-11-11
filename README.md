@@ -218,7 +218,7 @@ public class TryCatch
     }
 }
 ```
-![]()
+![](https://github.com/Tooktasupaporn/LAB-08/blob/master/lab8-3.PNG?raw=true)
 ###3.
 ``` csharp
 using System;
@@ -235,6 +235,32 @@ public class TryCatch
      }
  }
 ```
+--แก้ข้อผิดพลาดดังนี้
+```
+using System;
+public class TryCatch
+{
+    static void Main(string[] args)
+    {
+        int value = 800000000;
+
+        checked // check for overflow
+        {
+            try
+            {
+                int square = value * value;
+                Console.WriteLine("{0} ^ 2 = {1}", value, square);
+            }
+            catch (OverflowException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+        }
+    }
+}
+```
+![]()
 ###1.1.3. คำสั่ง ```throw```
 
 คำสั่ง ```throw``` ใช้เพื่อเปลี่ยนเส้นทางการทำงานของโปรแกรมโดยเจาะจง exception เป้าหมาย
