@@ -430,8 +430,8 @@ namespace RandomNumber
     }
 }
 ```
-1) ![]()
-2) ![]()
+1) ![](https://github.com/Tooktasupaporn/LAB-08/blob/master/random%20grade%20A.PNG?raw=true)
+2) ![](https://github.com/Tooktasupaporn/LAB-08/blob/master/lab%208%20=.PNG?raw=true)
 3) ![]()
 
 ###1.2.2.	คำสั่ง ```if…else```
@@ -515,8 +515,8 @@ namespace RandomNumber
     }
 }
 ```
-1) ![]()
-2) ![]()
+1) ![](https://github.com/Tooktasupaporn/LAB-08/blob/master/lab%208%20hooray.PNG?raw=true)
+2) ![](https://github.com/Tooktasupaporn/LAB-08/blob/master/lab%208%20sory.PNG?raw=true)
 ###1.2.3.	คำสั่ง ```if``` ซ้อนกัน (nested if)
 คำสั่ง ```if``` สามารถเขียนซ้อนกันเป็นชั้นได้ เรียกว่า nested if มีรูปแบบดังนี้
 ####รูปแบบของคำสั่ง nested if
@@ -645,10 +645,10 @@ namespace RandomNumber
 0-49|	F
 
 3. รูปแบบการพิมพ์คือ score: [sss] grade: [gg] เมื่อ sss คือคะแนน และ gg คือ เกรดที่ได้
-1)![]()
-2) ![]()
-3)![]()
-4)![]()
+1)![](https://github.com/Tooktasupaporn/LAB-08/blob/master/lab%208%20d+.PNG?raw=true)
+2) ![](https://github.com/Tooktasupaporn/LAB-08/blob/master/lab8%20B.PNG?raw=true	)
+3)![](https://github.com/Tooktasupaporn/LAB-08/blob/master/lab8%20random%20F.PNG?raw=true)
+
 
 ###1.2.5. คำสั่ง ```switch```
 
@@ -779,9 +779,9 @@ public class switchLearning
     }
 }
 ```
-1)![]()
-2)![]()
-3![]()
+1)![](https://github.com/Tooktasupaporn/LAB-08/blob/master/lab8%20green.PNG?raw=true)
+2)![](https://github.com/Tooktasupaporn/LAB-08/blob/master/lab8%20tue.PNG?raw=true)
+3![](https://github.com/Tooktasupaporn/LAB-08/blob/master/lab8%20%E0%B8%AA%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2.PNG?raw=true)
 ##Reference
 เนื้อหาในส่วนนี้เป็นอ้างอิงสำหรับการเขียนโปรแกรม
 
